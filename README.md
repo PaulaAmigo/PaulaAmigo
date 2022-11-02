@@ -1,9 +1,15 @@
-### Hola Mundo! 👋
-<h3 align="center">A passionate frontend developer!</h3>
+<h1 align="center">Hi I'm Paula Amigo 👋</h1>
+<h3 align="center">A passionate frontend developer, who likes to stay active!</h3>
+
+- 🔭 I’m currently working on **Burger Queen**
+
+- 📫 How to reach me **paula.amigo@hotmail.cl**
+
+- ⚡ Fun fact **I am a keen baker biscuits :cookie:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/paula-amigo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/paula-amigo/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/paula amigo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paula amigo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
