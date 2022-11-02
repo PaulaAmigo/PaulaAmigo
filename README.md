@@ -3,13 +3,14 @@
 
 - 🔭 I’m currently working on **Burger Queen**
 
-- 📫 How to reach me **paula.amigo@hotmail.cl**
+-  How to reach me **paula.amigo@hotmail.cl**
 
 - ⚡ Fun fact **I am a keen baker biscuits :cookie:**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :globe_with_meridians:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/paula amigo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paula amigo" height="30" width="40" /></a>
+**paula.amigo@hotmail.cl**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
