@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8CE4F7&width=435&lines=Hi%2C+I'm+Paula+Amigo%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+[![Typing SVG]align="center"(https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8CE4F7&width=435&lines=Hi%2C+I'm+Paula+Amigo%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 <h2 align="center">A passionate frontend developer, who likes to stay active!</h2>
 
 - 🔭 I’m currently working on **Burger Queen**
