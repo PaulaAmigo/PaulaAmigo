@@ -1,9 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0B6B69&width=435&lines=Hi%2C+I'm+Paula+Amigo!%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
-<h2 align="center">A passionate frontend developer, who likes to stay active!</h2>
-
-- 🔭 I’m currently working on **Burger Queen**
-
-- ⚡ Fun fact **I am a keen baker biscuits :cookie:**
+<h2>A passionate frontend developer, who likes to stay active :sparkles:</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
