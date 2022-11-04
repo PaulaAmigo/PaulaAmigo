@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0B6B69&width=435&lines=Hi%2C+I'm+Paula+Amigo!%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0B6B69&width=435&lines=Hi%2C+I'm+Paula+Amigo%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 <h3>A passionate frontend developer, who likes to stay active :sparkles:</h3>
-<p>...</p>
+<p>looking for something new to lern :eyes:</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
